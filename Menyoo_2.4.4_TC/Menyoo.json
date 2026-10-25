@@ -1,0 +1,13 @@
+{
+  "name": "Menyoo SP (Traditional Chinese)",
+  "version": "2.4.4",
+  "gamePort": "1.5",
+  "engine": "MSVC-x64",
+  "entry": "Menyoo.asi",
+  "openKey": "F8",
+  "channel": "@Oyooyee",
+  "author": "MAFINS & ItsJustCurtis",
+  "translator": "@Oyooyee",
+  "requiresRepackedIPA": false,
+  "runtimeTestedOnDevice": true
+}
