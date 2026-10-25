@@ -1,0 +1,51 @@
+/menyooStuff/Language
+
+Add language translation Json files here
+Syntax:
+
+French.json:
+
+{
+   "Player Options":"Options du Joueur",
+   "Teleport Options":"Options de Téléportation",
+   "Settings":"Paramètres",
+   "French":"Français",
+   "Language":"Langue",
+   "Reload Language Files":"Recharger les fichiers de langue",
+   "Themes":"Thèmes",
+   "Menu Colours":"Couleurs des menus",
+   "Menu Fonts":"Polices des menus",
+   "Menu Position":"Emplacement des menus",
+   "Gradients":"Dégradés",
+   "Titlebox Globe":"Globe de boîte de titre",
+   "Centre Title":"Mettre le titre au centre",
+   "Centre Options":"Mettre les éléments au centre",
+   "Centre Breaks":"Mettre les séparateurs au centre",
+   "Reset Player Model Upon Death (SP)":"Réinitialiser le modèle du joueur en mourant (SP)",
+   "Sync Menyoo With Config File":"Synchroniser avec menyooConfig",
+   "Reset Toggles (Most of Them)":"Réinitialiser menyooConfig bascule"
+}
+
+Chinese.json:
+
+{
+   "Player Options":"玩家選項",
+   "Teleport Options":"傳送選項",
+   "Settings":"設定",
+   "Chinese":"繁體中文",
+   "French":"繁體中文",
+   "Language":"語言",
+   "Reload Language Files":"重新載入語言檔案",
+   "Themes":"主題風格",
+   "Menu Colours":"選單顏色",
+   "Menu Fonts":"選單字型",
+   "Menu Position":"選單位置",
+   "Gradients":"漸層效果",
+   "Titlebox Globe":"標題列地球儀圖示",
+   "Centre Title":"標題文字置中",
+   "Centre Options":"選項文字置中",
+   "Centre Breaks":"分隔線置中",
+   "Reset Player Model Upon Death (SP)":"單人模式死亡後重置玩家模型",
+   "Sync Menyoo With Config File":"與設定檔同步",
+   "Reset Toggles (Most of Them)":"重置大部分開關選項"
+}

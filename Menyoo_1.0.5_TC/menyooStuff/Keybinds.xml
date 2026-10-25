@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keybinds gamepadLabels="1">
+	<Bind id="menu_open" keyboard="119" keyboard2="65535" pad1="44" pad2="14" />
+	<Bind id="spooner_mode" keyboard="120" keyboard2="65535" pad1="206" pad2="190" />
+	<Bind id="no_clip" keyboard="114" keyboard2="65535" pad1="203" pad2="209" />
+	<Bind id="freecam_hasten" keyboard="160" keyboard2="65535" pad1="206" pad2="65535" />
+	<Bind id="freecam_slow" keyboard="162" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="freecam_height_lock" keyboard="9" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="freecam_fov_mod" keyboard="32" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="stop_animation" keyboard="74" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="respawn" keyboard="65535" keyboard2="65535" pad1="26" pad2="65535" />
+	<Bind id="category_jump" keyboard="71" keyboard2="65535" pad1="28" pad2="65535" />
+	<Bind id="teleport_waypoint" keyboard="84" keyboard2="65535" pad1="193" pad2="65535" />
+	<Bind id="tow_rope" keyboard="75" keyboard2="65535" pad1="209" pad2="65535" />
+	<Bind id="vehicle_boost" keyboard="69" keyboard2="65535" pad1="86" pad2="65535" />
+	<Bind id="menu_action" keyboard="66" keyboard2="65535" pad1="224" pad2="65535" />
+	<Bind id="spooner_marker" keyboard="77" keyboard2="65535" pad1="187" pad2="65535" />
+	<Bind id="spooner_edit_mode" keyboard="66" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="spooner_sensitivity_up" keyboard="187" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="spooner_sensitivity_down" keyboard="189" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="spooner_edit_transform" keyboard="82" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="spooner_camera_lock" keyboard="86" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="spooner_local_space" keyboard="76" keyboard2="65535" pad1="65535" pad2="65535" />
+	<Bind id="spooner_edit_copy" keyboard="67" keyboard2="65535" pad1="190" pad2="65535" />
+	<Bind id="spooner_cursor_remove" keyboard="46" keyboard2="65535" pad1="189" pad2="65535" />
+	<Bind id="spooner_cursor_add_to_db" keyboard="38" keyboard2="65535" pad1="188" pad2="65535" />
+	<Bind id="favourite_recategorize" keyboard="67" keyboard2="65535" pad1="222" pad2="65535" />
+	<Bind id="vehicle_weapons_fire" keyboard="107" keyboard2="65535" pad1="209" pad2="65535" />
+	<Bind id="vehicle_hydraulics" keyboard="160" keyboard2="65535" pad1="209" pad2="65535" />
+	<Bind id="breathe_ptfx" keyboard="74" keyboard2="65535" pad1="209" pad2="65535" />
+	<Bind id="superman_boost" keyboard="107" keyboard2="65535" pad1="206" pad2="65535" />
+	<Bind id="superman_freeze" keyboard="109" keyboard2="65535" pad1="191" pad2="65535" />
+	<Bind id="superman_ascend" keyboard="103" keyboard2="65535" pad1="208" pad2="65535" />
+	<Bind id="superman_descend" keyboard="97" keyboard2="65535" pad1="207" pad2="65535" />
+</Keybinds>

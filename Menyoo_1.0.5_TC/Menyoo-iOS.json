@@ -1,0 +1,14 @@
+{
+  "name": "Menyoo iOS ASI",
+  "version": "1.0.5",
+  "gamePort": "1.4.1",
+  "engine": "8b0b5899ed",
+  "entry": "Menyoo-iOS.asi",
+  "openKey": "F8",
+  "channel": "@Oyooyee",
+  "author": "MAFINS",
+  "port": "@cermite_01",
+  "translator": "@Oyooyee",
+  "requiresRepackedIPA": false,
+  "runtimeTestedOnDevice": false
+}
